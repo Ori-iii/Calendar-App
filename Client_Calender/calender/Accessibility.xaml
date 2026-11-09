@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="calender.Accessibility"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:calender"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <StackPanel Grid.Column="2" Padding="8" >
+            <Border Height="4"/>
+            <TextBlock x:Name="userNameTextBlock" FontSize="24"/>
+            <Border Height="12"/>
+            <Button x:Name="SignOut" Content="Sign Out" VerticalAlignment="Bottom" Click="SignOut_Click"/>
+            <Border Height="4"/>
+            <Button x:Name="DeleteUser" Content="Delete User" VerticalAlignment="Bottom" Click="DeleteUser_Click"/>
+            <Border Height="8"/>
+        </StackPanel>
+    </Grid>
+</Page>

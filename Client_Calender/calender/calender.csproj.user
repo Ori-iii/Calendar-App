@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>calender (Package)</ActiveDebugProfile>
+    <Source>C:\Users\monho\Downloads\icon-256x256-8.png</Source>
+    <SmallTileSource>C:\Users\monho\Downloads\icon-256x256-8.png</SmallTileSource>
+    <MediumTileSource>C:\Users\monho\Downloads\icon-256x256-8.png</MediumTileSource>
+    <WideTileSource>C:\Users\monho\Downloads\icon-256x256-8.png</WideTileSource>
+    <LargeTileSource>C:\Users\monho\Downloads\icon-256x256-8.png</LargeTileSource>
+    <AppIconSource>C:\Users\monho\Downloads\icon-256x256-8.png</AppIconSource>
+    <SplashScreenSource>C:\Users\monho\Downloads\icon-256x256-8.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\monho\Downloads\icon-256x256-8.png</PackageLogoSource>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

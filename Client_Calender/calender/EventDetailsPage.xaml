@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="calender.EventDetailsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:calender"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Transparent">
+
+    <Grid>
+        <StackPanel Spacing="8">
+            <TextBlock x:Name="EventTitle" 
+               Text="Select a Group" 
+               Style="{ThemeResource TitleTextBlockStyle}"/>
+            <StackPanel Orientation="Horizontal" Spacing="4">
+                <TextBlock Text="Created on:" 
+               Style="{ThemeResource CaptionTextBlockStyle}" 
+               Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                <TextBlock x:Name="EventCreatedSubtext" 
+               Text="N/A" 
+               Style="{ThemeResource CaptionTextBlockStyle}" 
+               Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Spacing="4">
+                <TextBlock Text="Start time:" 
+                   Style="{ThemeResource CaptionTextBlockStyle}" 
+                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                <TextBlock x:Name="EventStartTimeSubtext" 
+                   Text="N/A" 
+                   Style="{ThemeResource CaptionTextBlockStyle}" 
+                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Spacing="4">
+                <TextBlock Text="End time:" 
+                   Style="{ThemeResource CaptionTextBlockStyle}" 
+                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                <TextBlock x:Name="EventEndTimeSubtext" 
+                   Text="N/A" 
+                   Style="{ThemeResource CaptionTextBlockStyle}" 
+                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Spacing="4">
+                <TextBlock Text="Group associated:" 
+                   Style="{ThemeResource CaptionTextBlockStyle}" 
+                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+                <TextBlock x:Name="EventGroupSubtext" 
+                   Text="N/A" 
+                   Style="{ThemeResource CaptionTextBlockStyle}" 
+                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"/>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="calender.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:calender"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Calendar App">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop />
+    </Window.SystemBackdrop>
+
+    <NavigationView x:ConnectionId='2' x:Name="navView"                                  
+                                           >
+        <NavigationView.MenuItems>
+            <NavigationViewItem Icon="Calendar" Content="Calendar" Tag="EventsPage" />
+        </NavigationView.MenuItems>
+        <Frame x:ConnectionId='3' x:Name="ContentFrame" />
+    </NavigationView>
+</Window>
+

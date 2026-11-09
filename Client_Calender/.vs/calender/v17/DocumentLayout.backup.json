@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monho\\source\\repos\\Client_Calender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\groupspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\groupspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\networkhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\networkhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\monho\\AppData\\Local\\Temp\\.vsdbgsrc\\cbdd9462b4b34a7bf07f80e1e2d8d7215e3b267231463e3bdfb47cdfad0f2e86\\App.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\accessibility.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\accessibility.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|c:\\users\\monho\\source\\repos\\client_calender\\calender\\accessibility.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D472B754-056B-44B1-9F2B-BA12A9869277}|calender\\calender.csproj|solutionrelative:calender\\accessibility.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:calender\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\GroupsPage.xaml.cs",
+              "RelativeDocumentMoniker": "calender\\GroupsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\GroupsPage.xaml.cs",
+              "RelativeToolTip": "calender\\GroupsPage.xaml.cs",
+              "ViewState": "AgIAAP0BAAAAAAAAAAAswB4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T21:54:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\AppData\\Local\\Temp\\.vsdbgsrc\\cbdd9462b4b34a7bf07f80e1e2d8d7215e3b267231463e3bdfb47cdfad0f2e86\\App.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cbdd9462b4b34a7bf07f80e1e2d8d7215e3b267231463e3bdfb47cdfad0f2e86\\App.cs",
+              "ToolTip": "C:\\Users\\monho\\AppData\\Local\\Temp\\.vsdbgsrc\\cbdd9462b4b34a7bf07f80e1e2d8d7215e3b267231463e3bdfb47cdfad0f2e86\\App.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cbdd9462b4b34a7bf07f80e1e2d8d7215e3b267231463e3bdfb47cdfad0f2e86\\App.cs [Read Only]",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswIMAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T21:45:37.705Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "networkHandler.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\networkHandler.cs",
+              "RelativeDocumentMoniker": "calender\\networkHandler.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\networkHandler.cs",
+              "RelativeToolTip": "calender\\networkHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:23:37.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "RelativeDocumentMoniker": "calender\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "RelativeToolTip": "calender\\obj\\x64\\Debug\\net8.0-windows10.0.19041.0\\win-x64\\App.g.i.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:48:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "signupWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\signupWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calender\\signupWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\signupWindow.xaml.cs",
+              "RelativeToolTip": "calender\\signupWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T17:45:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\loginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calender\\loginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\loginWindow.xaml.cs",
+              "RelativeToolTip": "calender\\loginWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T17:44:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\App.xaml.cs",
+              "RelativeDocumentMoniker": "calender\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\App.xaml.cs",
+              "RelativeToolTip": "calender\\App.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T17:43:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calender\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\MainWindow.xaml.cs",
+              "RelativeToolTip": "calender\\MainWindow.xaml.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswLkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T17:43:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Accessibility.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\Accessibility.xaml.cs",
+              "RelativeDocumentMoniker": "calender\\Accessibility.xaml.cs",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\Accessibility.xaml.cs",
+              "RelativeToolTip": "calender\\Accessibility.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T17:36:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Accessibility.xaml",
+              "DocumentMoniker": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\Accessibility.xaml",
+              "RelativeDocumentMoniker": "calender\\Accessibility.xaml",
+              "ToolTip": "C:\\Users\\monho\\source\\repos\\Client_Calender\\calender\\Accessibility.xaml",
+              "RelativeToolTip": "calender\\Accessibility.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-01T16:57:20.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
